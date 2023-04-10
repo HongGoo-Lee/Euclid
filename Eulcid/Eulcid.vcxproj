@@ -24,6 +24,7 @@
     <ProjectGuid>{448ff7f6-7db5-499d-bd98-5ffb61e6191e}</ProjectGuid>
     <RootNamespace>Eulcid</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>Euclid</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
